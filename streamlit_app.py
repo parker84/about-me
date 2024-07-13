@@ -78,6 +78,7 @@ st.write(
     - **AI** 🤖: Deep Learning, AI Assistants, NLP
     - **Machine Learning** 🦾: Forecasting, Classification, Clustering
     - **Coding** 🐍: Python, SQL
+    - **Opportunity Sizing** 💰: Estimating the ROI of different initiatives based on the data
     """
 )
 
