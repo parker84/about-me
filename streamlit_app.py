@@ -72,11 +72,11 @@ st.write(
     """
     - **Communication** 🗣️: Data Storytelling + Stakeholder Management + Influencing Company Wide Business Decisions
     - **Data Analysis** 🤿: Deriving meaningful insights from data to impact business decisions
-    - **Experimentation** 🧪: A/B Testing, Hypothesis Testing, Metrics Design
-    - **Machine Learning** 🦾: Forecasting, Classification, Clustering
-    - **AI** 🤖: Deep Learning, AI Assistants, NLP
-    - **Data Engineering** 🛠️: Data Modelling, ETL, Feature Engineering, Metrics
     - **Dashboards** 📊: streamlit
+    - **Experimentation** 🧪: A/B Testing, Hypothesis Testing, Metrics Design
+    - **Data Engineering** 🛠️: Data Modelling, ETL, Feature Engineering, Metrics
+    - **AI** 🤖: Deep Learning, AI Assistants, NLP
+    - **Machine Learning** 🦾: Forecasting, Classification, Clustering
     - **Coding** 🐍: Python, SQL
     """
 )
