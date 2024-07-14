@@ -35,14 +35,9 @@ with col2:
     if st.button("✉️ Contact Me"):
         components.html(
             f"""
-            <!DOCTYPE html>
-            <html>
-            <body>
-                <script type="text/javascript">
-                    window.location.href = "{link}";
-                </script>
-            </body>
-            </html>
+            <script type="text/javascript">
+                window.location.href = "{link}";
+            </script>
             """,
             height=0,
             width=0
