@@ -32,16 +32,7 @@ with col2:
     st.write(
         "Founding + Principal Data Scientist at [Stan](https://stan.store/brydon)",
     )
-    if st.button("✉️ Contact Me"):
-        components.html(
-            f"""
-            <script type="text/javascript">
-                window.location.href = "{link}";
-            </script>
-            """,
-            height=0,
-            width=0
-        )
+    st.link_button(label="✉️ Contact Me", url=link)
 
 
 # --- EXPERIENCE & QUALIFICATIONS ---
